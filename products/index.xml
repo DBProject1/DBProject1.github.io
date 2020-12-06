@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All latest bikes on Moto Rentals |  landing page template</title>
+    <title>All latest hire on Moto Rentals |  landing page template</title>
     <link>https://DBProject1.github.io/products/</link>
-    <description>Recent content in All latest bikes on Moto Rentals |  landing page template</description>
+    <description>Recent content in All latest hire on Moto Rentals |  landing page template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://DBProject1.github.io/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Honda</title>
+      <title>Hero Pleasure</title>
       <link>https://DBProject1.github.io/products/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
@@ -17,20 +17,29 @@
     </item>
     
     <item>
-      <title>Suzuki</title>
-      <link>https://DBProject1.github.io/products/product-2/</link>
-      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
-      
-      <guid>https://DBProject1.github.io/products/product-2/</guid>
-      <description>Super sonic bike</description>
-    </item>
-    
-    <item>
-      <title>Yamaha</title>
+      <title>Honda Activa</title>
       <link>https://DBProject1.github.io/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
       <guid>https://DBProject1.github.io/products/product-1/</guid>
+      <description>Super sonic bike</description>
+    </item>
+    
+    <item>
+      <title>Honda Aviator</title>
+      <link>https://DBProject1.github.io/products/product-4/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://DBProject1.github.io/products/product-4/</guid>
+      <description>Super sonic bike</description>
+    </item>
+    
+    <item>
+      <title>Honda Grazia</title>
+      <link>https://DBProject1.github.io/products/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://DBProject1.github.io/products/product-2/</guid>
       <description>Super sonic bike</description>
     </item>
     
